@@ -1,0 +1,35 @@
+Privacy Policy
+Last updated: February 22, 2026
+Introduction
+Amblyopal ("we," "our," or "the App") is an amblyopia vision therapy application that uses interactive games and anaglyph (red/blue) glasses to support vision training. Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information.
+Information We Collect
+Data Stored on Your Device
+Amblyopal stores all user data locally on your device. We do not operate servers, and we do not transmit your personal data to any backend. The following data is stored on-device:
+* Calibration settings — Your red/blue lens intensity preferences for anaglyph glasses.
+* Play credits — A count of how many free plays you have used today, stored securely using encrypted on-device storage.
+* Streak and progress data — Daily play streaks, session history, and game performance metrics to help you track your training progress.
+* Subscription status — Whether you have an active Pro subscription, cached locally so the App can function without repeated network checks.
+Data We Do Not Collect
+* We do not collect your name, email address, or any personally identifiable information.
+* We do not collect health or medical data.
+* We do not use analytics, tracking, or advertising SDKs.
+* We do not create user accounts or require login.
+* We do not access your camera, microphone, contacts, location, or photo library.
+Third-Party Services
+Apple In-App Purchases
+Amblyopal offers an optional Pro subscription ($4.99/month) through Apple's App Store. When you subscribe, the transaction is handled entirely by Apple. We do not receive or store your payment information, credit card number, or Apple ID. Apple's handling of your purchase data is governed by Apple's Privacy Policy.
+Apple App Store
+The App is distributed through the Apple App Store. Apple may collect certain usage and diagnostic data as described in their privacy policy. We do not have access to this data unless you opt in to sharing it with developers through Apple's settings.
+Children's Privacy
+Amblyopal may be used by children as part of amblyopia therapy. Because we do not collect any personal information, create accounts, or transmit data off-device, the App does not knowingly collect personal information from children under the age of 13 (or the applicable age in your jurisdiction). If you are a parent or guardian and believe your child has provided personal information through the App, please contact us at the address below.
+Data Retention and Deletion
+All data is stored locally on your device. You can delete all App data at any time by uninstalling Amblyopal from your device. We do not retain any data on external servers.
+Subscription Management
+You can manage or cancel your Pro subscription at any time through your Apple ID settings. Go to Settings > Apple ID > Subscriptions on your device, or visit https://apps.apple.com/account/subscriptions.
+Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period. Payment is charged to your Apple ID account at confirmation of purchase.
+Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected by the "Last updated" date at the top of this page. We encourage you to review this policy periodically.
+Contact Us
+If you have any questions about this Privacy Policy or the App, please contact us at:
+[Your Name or Company Name]
+[your-email@example.com]
