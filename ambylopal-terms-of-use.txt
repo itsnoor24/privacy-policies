@@ -81,9 +81,11 @@ The App, including its design, text, graphics, logos, and software, is owned by 
 
 ## 8. THIRD-PARTY SERVICES
 
-8.1 The App may link to or integrate third-party services (including app stores and analytics). Those services have their own terms and privacy practices. We are not responsible for third-party services.
+8.1 The App uses certain third-party services to provide functionality, including Apple’s App Store for subscriptions and PostHog for anonymous analytics. These third-party services have their own terms of use and privacy policies, and we encourage you to review them.
 
-8.2 Your use of the App is also subject to our Privacy Policy.
+8.2 PostHog is used solely to collect anonymous usage and diagnostic information that helps us understand how users interact with the App and improve its functionality. This information is not used for advertising or cross-app tracking.
+
+8.3 Your use of the App is also subject to our Privacy Policy.
 ---
 
 ## 9. DISCLAIMER OF WARRANTIES
