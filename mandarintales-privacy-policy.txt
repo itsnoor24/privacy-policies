@@ -1,0 +1,51 @@
+Privacy Policy for Mandarin Tales
+Last updated: 2025
+Mandarin Tales ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and what choices you have regarding your data.
+1. Information We Collect
+Personal Information
+Name (if provided during sign-up)
+Email address
+Profile photo (optional)
+User ID
+Usage & App Data
+Story progress and reading activity
+Preferences (character set, level selection, UI preferences)
+Onboarding status
+Session data (which screens or features are used)
+Crash reports and performance metrics
+Device Information
+Device model and operating system version
+Non-advertising device identifiers
+App version
+We do not collect precise GPS location or advertising identifiers.
+2. How We Use Your Information
+We use your information to:
+Provide and operate the core app functionality
+Create and manage your account
+Sync your reading progress and preferences
+Improve app performance and fix bugs
+Understand how users interact with the app (analytics)
+3. Third-Party Services
+We use trusted third-party service providers to operate our app:
+Firebase (Google)
+Used for authentication, database storage, analytics, and crash reporting. Firebase may process user information as part of providing these services.
+ElevenLabs
+Used to generate audio narration within the app. Only the story text displayed in the app is processed to produce narration. Users do not upload custom text.
+We do not share your data with advertisers, data brokers, or social media companies. All third-party services are used solely to provide app functionality and improve the user experience.
+4. Data Retention
+We retain your data for as long as your account is active. If you delete your account, associated personal data and app activity data will be removed from our systems within a reasonable timeframe. Some non-identifiable technical logs may be retained for security, troubleshooting, or legal compliance.
+5. Your Rights
+You may:
+Access your personal information
+Update or correct your information
+Request deletion of your data
+Delete your account at any time (when available)
+6. Children’s Privacy
+Mandarin Tales is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under 13. If we become aware that we have collected such information, we will delete it.
+7. Security
+We use industry-standard security measures, including encrypted connections and secure storage, to protect your data. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+8. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page and within the app when appropriate. Your continued use of the app after changes are posted means you accept the updated policy.
+9. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+Email: support@mandarintales.com
